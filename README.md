@@ -1,3 +1,10 @@
+# Hi
+## This is just a simple portfolio page following the youtube video you can find the link below:
+## [https://www.youtube.com/watch?v=G-Cr00UYokU&list=LL&index=6]
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
