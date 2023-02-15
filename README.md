@@ -1,8 +1,8 @@
 # Hi there,
 ## This is just a simple portfolio page following the youtube video you can find the link below:
 ## [https://www.youtube.com/watch?v=G-Cr00UYokU&list=LL&index=6]
-
-
+Here is the page for the web built (unfinished yet..)
+http://portfolio-361010.ts.r.appspot.com/
 
 
 # Getting Started with Create React App
